@@ -19,7 +19,7 @@ These app's are made with Jetpack Compose and Android Views.
 ## Repository list
 Firebase Introduction (Section 1) [GitHub Repository](https://github.com/DavidGlezQ/Firebase-Introduction-Section1)
 
-Basic Realtime Database (Section 2)
+Basic Realtime Database (Section 2) [GitHub Repository](https://github.com/DavidGlezQ/Basic-RealTime-FireBase-Course)
 
 Advanced Realtime Database XML (Section 3)
 
